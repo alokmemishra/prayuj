@@ -1,12 +1,11 @@
 
-# PRAYUJ - Smart Traffic Management System 🚦
+# PRAYUJ - Smart Traffic Management System 🚦 (HackDiwas 2.0 runners-up)
 
 **PRAYUJ** is an intelligent traffic management interface developed as a mini-project for the B.Tech 2nd Year curriculum at United University. It utilizes real-time image processing and Google Cloud Vision API for vehicle detection, number plate recognition, and traffic violation logging (such as red-light crossing or overspeeding).
 
-## 👥 Team Members
+## 👥 created by:-
 
-- **Mayank Mishra**
-- **Abdullah Khan**
+- **Alok Mishra**
 
 ## 🧠 Supervisor
 
