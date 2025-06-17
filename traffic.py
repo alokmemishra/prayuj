@@ -16,7 +16,7 @@ except ImportError:
     YOLO_AVAILABLE = False
 
 # Configuration
-GOOGLE_VISION_API_KEY = "AIzaSyBVt-BxOnkeWMaCBEJGglttwmpxuqV52rk"  # Replace with your actual Google Cloud Vision API key
+GOOGLE_VISION_API_KEY = "YOUR_API_KEY_HERE"  # Replace with your actual Google Cloud Vision API key
 VEHICLE_THRESHOLD = 15
 DEFAULT_WAIT_TIME = 30
 REDUCED_WAIT_TIME = 20
